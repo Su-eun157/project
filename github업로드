@@ -1,0 +1,8 @@
+# git init
+(현재 디렉터리를 Local Repository로 지정한다)
+# git add [파일명].[확장자]
+(해당 파일을 Index, Staging Area로 넘긴다)
+# git commit -m [설명]
+(해당 파일에 설명을 달아서 local branch로 넘긴다)
+# git push origin master
+(최종적으로 Remote Repository에 파일을 넘긴다.)
